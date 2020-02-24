@@ -16,3 +16,8 @@ Desenvolver uma **interface** semelhante com a do **Facebook** utilizando React.
 
 As informações contidas na interface são **estáticas**.
 
+<h3>Tela:</h3>
+
+<p align="center">
+<img src="https://i.imgur.com/vpKN8qX.png"/>
+</p>
