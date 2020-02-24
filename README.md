@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafio-04/blob/master/README.md">Sobre o desafio</a>
+  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafio-04/blob/master/README.md">Repositório do desafio</a>
 </p>
 
 ## :rocket: Sobre o desafio
